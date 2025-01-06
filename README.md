@@ -1,5 +1,6 @@
 ## Portfolio
 ### Hello, I'm Pratiksha 👋
+
 I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. 
 Here's a glimpse into my journey:  
 
